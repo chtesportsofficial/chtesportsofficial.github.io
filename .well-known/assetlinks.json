@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.chteo.app",
+    "sha256_cert_fingerprints": ["F9:A5:E8:06:A5:77:BF:BC:AB:7D:32:AB:AD:BD:AB:7E:04:83:1C:91:3D:9B:D6:48:8B:71:41:37:D4:99:9F:DB"]
+  }
+}]
